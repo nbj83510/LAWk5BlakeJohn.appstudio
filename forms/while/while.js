@@ -1,4 +1,3 @@
-/*
 let loop = "Yes"
 let i = 1
 while (loop == "Yes") {
@@ -6,4 +5,3 @@ while (loop == "Yes") {
   console.log(`This loop iteration is ${i}`)
   i++
 }
-*/
